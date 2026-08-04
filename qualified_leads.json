@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sarah Chen",
+    "email": "sarah.chen@brightpeak.com",
+    "business_type": "E-commerce (Fashion Retail)",
+    "budget": "$15,000/month",
+    "message": "We're scaling fast and our current checkout is losing us customers. We need a full Shopify Plus migration with custom integrations by end of quarter. Can you send over a proposal and available start dates?",
+    "priority": null,
+    "justification": null,
+    "follow_up_email": null,
+    "status": "error",
+    "error": "rate_limited"
+  },
+  {
+    "name": "Mike",
+    "email": "mike123@gmail.com",
+    "business_type": "not sure",
+    "budget": "idk maybe a few hundred",
+    "message": "hey do you guys do websites",
+    "priority": null,
+    "justification": null,
+    "follow_up_email": null,
+    "status": "error",
+    "error": "rate_limited"
+  },
+  {
+    "name": "Dr. Amir Hassan",
+    "email": "a.hassan@meridianclinic.org",
+    "business_type": "Healthcare (Multi-location Clinic)",
+    "budget": "$40,000 - $60,000",
+    "message": "We operate 6 clinics and need a HIPAA-compliant patient portal with appointment scheduling, telehealth integration, and EHR sync. Timeline is flexible but we'd like to kick off within the next 6 weeks. Please include case studies from healthcare clients.",
+    "priority": null,
+    "justification": null,
+    "follow_up_email": null,
+    "status": "error",
+    "error": "rate_limited"
+  },
+  {
+    "name": "Jessica",
+    "email": "jess.t@yahoo.com",
+    "business_type": "Blog / Personal Project",
+    "budget": "$0",
+    "message": "Hi! I love your website designs, just wondering how much a simple blog redesign would cost. Not in a rush, just exploring options for now.",
+    "priority": null,
+    "justification": null,
+    "follow_up_email": null,
+    "status": "error",
+    "error": "rate_limited"
+  },
+  {
+    "name": "Robert Kim",
+    "email": "rkim@northstarlogistics.com",
+    "business_type": "Logistics & Supply Chain",
+    "budget": "$25,000 initial, ongoing retainer",
+    "message": "We need a custom fleet-tracking dashboard integrated with our existing ERP (SAP). We've evaluated three vendors already and are ready to move forward with the right partner. Looking to sign a contract within 2 weeks.",
+    "priority": null,
+    "justification": null,
+    "follow_up_email": null,
+    "status": "error",
+    "error": "rate_limited"
+  }
+]
