@@ -5,11 +5,10 @@
     "business_type": "E-commerce (Fashion Retail)",
     "budget": "$15,000/month",
     "message": "We're scaling fast and our current checkout is losing us customers. We need a full Shopify Plus migration with custom integrations by end of quarter. Can you send over a proposal and available start dates?",
-    "priority": null,
-    "justification": null,
-    "follow_up_email": null,
-    "status": "error",
-    "error": "rate_limited"
+    "priority": "High",
+    "justification": "The lead has a clear, substantial budget of $15,000/month, a specific and well-defined technical need (Shopify Plus migration with custom integrations for fashion retail), and an explicit timeline (end of quarter).",
+    "follow_up_email": "Subject: Shopify Plus Migration for Brightpeak -- Hi Sarah, Thanks for reaching out. We would love to help Brightpeak upgrade to Shopify Plus and solve your checkout drop-off challenges. Given your $15,000/month budget, fashion retail focus, and goal to launch custom integrations by the end of the quarter, our team is well-equipped to deliver a seamless transition. Are you available for a 20-minute discovery call this Thursday to discuss your integration requirements and review our available start dates for the proposal? Best, [Your Name]",
+    "status": "success"
   },
   {
     "name": "Mike",
@@ -17,11 +16,10 @@
     "business_type": "not sure",
     "budget": "idk maybe a few hundred",
     "message": "hey do you guys do websites",
-    "priority": null,
-    "justification": null,
+    "priority": "Low",
+    "justification": "The lead has a very low and uncertain budget ('a few hundred') along with an extremely vague message without any project details, scope, or business context.",
     "follow_up_email": null,
-    "status": "error",
-    "error": "rate_limited"
+    "status": "success"
   },
   {
     "name": "Dr. Amir Hassan",
@@ -29,11 +27,10 @@
     "business_type": "Healthcare (Multi-location Clinic)",
     "budget": "$40,000 - $60,000",
     "message": "We operate 6 clinics and need a HIPAA-compliant patient portal with appointment scheduling, telehealth integration, and EHR sync. Timeline is flexible but we'd like to kick off within the next 6 weeks. Please include case studies from healthcare clients.",
-    "priority": null,
-    "justification": null,
-    "follow_up_email": null,
-    "status": "error",
-    "error": "rate_limited"
+    "priority": "High",
+    "justification": "Dr. Hassan provided a clear, substantial budget of $40,000 - $60,000 along with a highly specific requirement (a HIPAA-compliant patient portal with appointment scheduling, telehealth integration, and EHR sync for 6 clinic locations) and a defined kickoff timeline within 6 weeks.",
+    "follow_up_email": "Subject: HIPAA-Compliant Patient Portal for Meridian Clinic\n\nDear Dr. Hassan,\n\nThank you for reaching out to us. We would love to assist Meridian Clinic in developing your HIPAA-compliant patient portal equipped with appointment scheduling, telehealth integration, and EHR synchronization across your 6 clinic locations.\n\nYour budget of $40,000 - $60,000 aligns well with the custom, secure build required for this scope. I have attached case studies from our previous healthcare projects detailing similar portal implementations and EHR integrations for your review.\n\nWould you be available for a brief 20-minute discovery call this Thursday to discuss your target kickoff within the next 6 weeks?\n\nBest regards,\nLead Qualification Team",
+    "status": "success"
   },
   {
     "name": "Jessica",
@@ -41,11 +38,10 @@
     "business_type": "Blog / Personal Project",
     "budget": "$0",
     "message": "Hi! I love your website designs, just wondering how much a simple blog redesign would cost. Not in a rush, just exploring options for now.",
-    "priority": null,
-    "justification": null,
+    "priority": "Low",
+    "justification": "The lead has a $0 budget and an exploratory, non-urgent request for a personal blog redesign, indicating low intent and zero financial commitment.",
     "follow_up_email": null,
-    "status": "error",
-    "error": "rate_limited"
+    "status": "success"
   },
   {
     "name": "Robert Kim",
@@ -53,10 +49,9 @@
     "business_type": "Logistics & Supply Chain",
     "budget": "$25,000 initial, ongoing retainer",
     "message": "We need a custom fleet-tracking dashboard integrated with our existing ERP (SAP). We've evaluated three vendors already and are ready to move forward with the right partner. Looking to sign a contract within 2 weeks.",
-    "priority": null,
-    "justification": null,
-    "follow_up_email": null,
-    "status": "error",
-    "error": "rate_limited"
+    "priority": "High",
+    "justification": "The lead has a clear and substantial budget ($25,000 initial plus an ongoing retainer), a highly specific technical need (custom fleet-tracking dashboard integrated with SAP ERP), and an urgent timeline (looking to sign within 2 weeks).",
+    "follow_up_email": "Subject: Custom SAP Fleet-Tracking Dashboard for Northstar Logistics\n\nHi Robert,\n\nThank you for reaching out. We would be delighted to partner with Northstar Logistics to build your custom fleet-tracking dashboard and integrate it seamlessly with your SAP ERP system.\n\nGiven your defined scope, $25,000 initial budget (plus retainer), and goal to sign within 2 weeks, we are ready to move quickly to deliver a tailored solution.\n\nAre you available for a 20-minute technical alignment call tomorrow or Thursday to discuss your integration requirements and finalize next steps?\n\nBest regards,\nClient Services Team",
+    "status": "success"
   }
 ]

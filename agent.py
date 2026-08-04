@@ -24,7 +24,7 @@ try:
 except ImportError:
     pass
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-flash-latest"
 INPUT_CSV = "leads.csv"
 OUTPUT_JSON = "qualified_leads.json"
 MAX_RETRIES = 3
